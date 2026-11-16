@@ -1,0 +1,26 @@
+with absorber: median AoA error (deg), ToF error (m), localization error (m)
+   2 waves    4.0  0.1992  0.2767
+   3 waves    4.0  0.2045  0.2847
+   5 waves    4.0  0.1895  0.2664
+  11 waves    4.0  0.1842  0.2428
+  21 waves    4.0  0.1745  0.2399
+with absorber: median localization error (m) by ToF search upper limit
+   2 waves  33.0ns 0.2767  35.0ns 0.2767  37.0ns 0.2845  60.0ns 4.2668
+   3 waves  33.0ns 0.2847  35.0ns 0.2847  37.0ns 0.2847  60.0ns 0.2847
+   5 waves  33.0ns 0.2664  35.0ns 0.2664  37.0ns 0.2664  60.0ns 0.2664
+  11 waves  33.0ns 0.2428  35.0ns 0.2428  37.0ns 0.2428  60.0ns 0.2428
+  21 waves  33.0ns 0.2399  35.0ns 0.2399  37.0ns 0.2399  60.0ns 0.2399
+with absorber: 21-wave estimates at ToF 0: 0.000, at upper limit: 0.000
+without absorber: median AoA error (deg), ToF error (m), localization error (m)
+   2 waves   11.0  0.4133  1.1651
+   3 waves    9.0  0.5836  1.2587
+   5 waves    9.5  0.5482  1.1193
+  11 waves   11.0  0.7131  1.3656
+  21 waves   11.0  0.7581  1.4455
+without absorber: median localization error (m) by ToF search upper limit
+   2 waves  33.0ns 1.0923  35.0ns 1.1651  37.0ns 1.2931  60.0ns 2.9945
+   3 waves  33.0ns 1.1887  35.0ns 1.2587  37.0ns 1.3096  60.0ns 1.3595
+   5 waves  33.0ns 1.0981  35.0ns 1.1193  37.0ns 1.1620  60.0ns 1.2127
+  11 waves  33.0ns 1.2523  35.0ns 1.3656  37.0ns 1.4432  60.0ns 1.5741
+  21 waves  33.0ns 1.2895  35.0ns 1.4455  37.0ns 1.5754  60.0ns 1.6965
+without absorber: 21-wave estimates at ToF 0: 0.097, at upper limit: 0.102
